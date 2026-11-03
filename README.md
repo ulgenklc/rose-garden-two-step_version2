@@ -8,7 +8,7 @@ The game is a variation of the two-stage behavioral task paradigm without explic
 
 [Play Game](https://ulgenklc.github.io/rose-garden-two-step_version2/)
 
-For the original version of the task by Ember Zhang, see [Rose Garden Game (Two Stage Task)](https://rose-garden-two-step.vercel.app/).
+For the original version of the task by Ember Zhang, see [Rose Garden Game (Two Stage Task)](https://github.com/emberlzhang/task_rose-garden_two-step).
 
 ## Game Mechanics
 
