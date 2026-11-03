@@ -16,8 +16,8 @@ Based on the "two-stage" task paradigm in cognitive behavioral research, players
 
 The game features probabilistic mapping between choices and outcomes:
 
-- Stage 1: Store selection influences available gardeners (e.g. 80-20 probability split)
-- Stage 2: Gardener selection affects rose color (e.g. 80-20 probability or red/yellow roses)
+- Stage 1: Store selection influences available gardeners (e.g. (80-20)% probability split)
+- Stage 2: Gardener selection affects rose color (e.g. (80-20)% or (60-40)% probability of red/yellow roses)
 
 Note: Probability split in each stage can be reconfigured to fit experiment needs. 
 
@@ -57,7 +57,7 @@ Data is saved locally to CSV, either at the end of the game or upon user exiting
 
 ## More Information
 
-Version 2: [Bengier Ülgen Kılıç](https://ulgenklc.github.io)
+Version 2: [B. Ülgen Kılıç](https://ulgenklc.github.io)
 
 Original version: Ember Zhang, emberz@seas.upenn.edu
 
