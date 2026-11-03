@@ -65,11 +65,11 @@ Data is saved locally to CSV, either at the end of the game or upon user exiting
 
 ## More Information
 
-Version 2: ([Bengier Ülgen Kılıç](https://ulgenklc.github.io))
+Version 2: [Bengier Ülgen Kılıç](https://ulgenklc.github.io)
 
 Original version: Ember Zhang, emberz@seas.upenn.edu
 
-Principal Investigator: Dr. Vincenzo Fiore ([Computational Psychiatry of Unstable Neural Kinetics Lab](https://comp-punk.org/))
+Principal Investigator: Dr. Vincenzo Fiore, [Computational Psychiatry of Unstable Neural Kinetics Lab](https://comp-punk.org/)
 
 ## License
 
