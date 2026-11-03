@@ -1,0 +1,138 @@
+body {
+  text-align: center;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  background-color: mediumseagreen;
+}
+
+/* .container {
+  margin: 20px;
+} */
+
+.intake-form,
+.instructions,
+.stage,
+.garden {
+  margin: 20px auto;
+  padding: 10px;
+  border: 1px solid beige;
+  border-radius: 5px;
+  background-color: beige;
+  width: 60%;
+  box-sizing: border-box;
+}
+
+.intake-form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 20px;
+}
+
+.intake-form input {
+  margin: 10px 0;
+  padding: 5px;
+  width: 200px;
+}
+
+.intake-form button {
+  margin-top: 10px;
+  padding: 5px 10px;
+}
+
+.error-message {
+  color: red;
+  margin-top: 5px;
+}
+
+.instructions ul {
+  text-align: left;
+  display: inline-block;
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+}
+
+.instructions ul li {
+  margin-bottom: 10px;
+}
+
+.stage {
+  height: 500px;
+  /* Set a consistent height for Stage 1 and Stage 2 divs */
+  display: flex;
+  flex-direction: column;
+  /* justify-content: center; */
+}
+
+.garden {
+  position: relative;
+}
+
+.rose-image {
+  border-radius: 50%;
+}
+
+@keyframes fade-out {
+  from {
+    opacity: 1;
+  }
+
+  to {
+    opacity: 0;
+  }
+}
+
+.card {
+  background-color: beige !important;
+  border: 12px solid burlywood !important;
+  border-radius: 15px !important;
+}
+
+.store-image,
+.gardener-image {
+  height: 250px !important;
+  width: auto;
+  object-fit: contain;
+  transition: transform 0.2s;
+  padding: 10px;
+  border-radius: 15px;
+}
+
+.store-image.selected,
+.gardener-image.selected {
+  transform: scale(1.05);
+  box-shadow: 0 0 15px rgba(160, 82, 45, 0.5);
+  border-radius: 15px;
+  /* background-color: rgba(188, 143, 143, 0.2); */
+  /* background-color: #a64d2f; */
+  border: 8px solid #c47459;
+}
+
+.garden-canvas {
+  display: block;
+  width: 500px;
+  height: 250px;
+  border: 12px solid burlywood;
+  border-radius: 15px;
+  margin: 0 auto;
+  background-color: green;
+}
+
+.gardener-selection {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.button-group {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.game-over {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 20px;
+}
