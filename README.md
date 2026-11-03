@@ -31,8 +31,6 @@ Players make two consecutive choices each round: first a gardening store, then o
 
 [![Rose Garden Game task](/public/the_task.png)](/public/the_task.pdf)
 
-Click the figure to open the PDF version.
-
 ## Data Collection
 
 Data points include the following: 
