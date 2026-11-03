@@ -27,17 +27,11 @@ Players interact with:
 
 ## Game Play
 
-Players make two consecutive choices each round:
+Players make two consecutive choices each round: first a gardening store, then one of the two gardeners shown. These choices result in planting either a red or yellow rose in the garden. The panels at the bottom of the figure show a garden filling up over a session.
 
-1. Select a gardening store
+[![Rose Garden Game task](/public/the_task.png)](/public/the_task.pdf)
 
-![Rose Garden Game](/public/rose_garden_screenshot1.png)
-
-2. Choose a gardener
-
-![Rose Garden Game](/public/rose_garden_screenshot2.png)
-
-These choices result in planting either a red or yellow rose in the garden.
+Click the figure to open the PDF version.
 
 ## Data Collection
 
