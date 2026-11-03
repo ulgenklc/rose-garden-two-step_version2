@@ -69,7 +69,7 @@ Version 2: ([Bengier Ülgen Kılıç](https://ulgenklc.github.io))
 
 Original version: Ember Zhang, emberz@seas.upenn.edu
 
-Principal Investigator (original version): Dr. Vincenzo Fiore ([PUNK LAB](https://comp-punk.org/))
+Principal Investigator: Dr. Vincenzo Fiore ([Computational Psychiatry of Unstable Neural Kinetics Lab](https://comp-punk.org/))
 
 ## License
 
